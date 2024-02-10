@@ -1,6 +1,5 @@
 # 🛒 Shop Service: Ecommerce Microservices 🛍️
 
-
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
@@ -11,11 +10,9 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
-
 This project implements a microservice architecture for an e-commerce system. It consists of several independent services, each responsible for specific aspects of the system such as product management, order processing, user authentication, payment handling, and notifications.
 
-
-## Objectives
+## 🎯 Objectives
 
 The main objectives of this project are:
 - Implement a scalable and maintainable e-commerce system using microservices architecture.
@@ -24,44 +21,20 @@ The main objectives of this project are:
 - Facilitate CI/CD pipelines with Jenkins Pipeline for automated build, test, and deployment.
 - Provide thorough documentation and instructions for setting up and running the project.
 
-## Microservices
+## 📦 Microservices
 
 1. **Product Service**: Manages products and their details.
-    - **REST API**:
-        - GET /products: Get all products
-        - GET /products/{id}: Get product by ID
-        - POST /products: Create a new product
-        - PUT /products/{id}: Update an existing product
-        - DELETE /products/{id}: Delete a product
-
 2. **Order Service**: Handles order management and processing.
-    - **REST API**:
-        - GET /orders: Get all orders
-        - GET /orders/{id}: Get order by ID
-        - POST /orders: Create a new order
-        - PUT /orders/{id}: Update an existing order
-        - DELETE /orders/{id}: Delete an order
-
 3. **User Service**: Responsible for user authentication and authorization.
-    - **REST API**:
-        - GET /users: Get all users
-        - GET /users/{id}: Get user by ID
-        - POST /users: Create a new user
-        - PUT /users/{id}: Update an existing user
-        - DELETE /users/{id}: Delete a user
-
 4. **Payment Service**: Deals with payment processing.
-    - **REST API**:
-        - POST /payments: Process a payment for an order
-
 5. **Notification Service**: Sends notifications to users.
 
-## Shared Libraries
+## 📚 Shared Libraries
 
 1. **Common Library**: Contains shared code, models, and utilities used across multiple services.
 2. **Security Library**: Contains security-related functionality such as authentication and authorization.
 
-## Technologies and Concepts Used
+## 💻 Technologies and Concepts Used
 
 - Spring Boot
 - Spring Cloud (Gateway API, Load Balancing, Cache, Health, Metrics)
@@ -74,7 +47,7 @@ The main objectives of this project are:
 - CI/CD with Jenkins Pipeline
 - Dev Configuration and Production Environment Setup
 
-## Entity Model
+## 📊 Entity Model
 
 The entity model includes entities such as:
 - Product
@@ -85,7 +58,7 @@ The entity model includes entities such as:
 
 Each microservice manages its related entities and exposes APIs for CRUD operations and business-specific functionality.
 
-## Setup and Configuration
+## 🔧 Setup and Configuration
 
 1. Clone the repository.
 2. Install Docker and Docker Compose.
@@ -93,7 +66,7 @@ Each microservice manages its related entities and exposes APIs for CRUD operati
 4. Run `docker-compose up` to build and start the microservices and their dependencies.
 5. Access the individual microservices' endpoints as per their documentation for further configuration and usage.
 
-## Contributing
+## 🤝 Contributing
 
 If you'd like to contribute to this project, please follow these guidelines:
 - Fork the repository.
@@ -101,11 +74,9 @@ If you'd like to contribute to this project, please follow these guidelines:
 - Make your changes and commit them.
 - Push to your fork and submit a pull request.
 
-## License
+## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
 
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.5-brightgreen)](https://spring.io/projects/spring-boot)

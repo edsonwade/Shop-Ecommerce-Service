@@ -1,22 +1,5 @@
 # 🛒 Shop Service: Ecommerce Microservices 🛍️
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.5-brightgreen)](https://spring.io/projects/spring-boot)
-[![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2020.0.4-brightgreen)](https://spring.io/projects/spring-cloud)
-[![Java](https://img.shields.io/badge/Java-11-blue)](https://www.java.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-5.0-blue)](https://www.mongodb.com/)
-[![REST API](https://img.shields.io/badge/API-REST-blue)](https://restfulapi.net/)
-[![Security](https://img.shields.io/badge/Security-Spring%20Security-yellow)](https://spring.io/projects/spring-security)
-[![Gateway API](https://img.shields.io/badge/Gateway%20API-Spring%20Cloud%20Gateway-yellow)](https://spring.io/projects/spring-cloud-gateway)
-[![Docker](https://img.shields.io/badge/Docker-20.10.8-blue)](https://www.docker.com/)
-[![Kafka](https://img.shields.io/badge/Apache%20Kafka-2.8.0-red)](https://kafka.apache.org/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-2.30.0-red)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-8.1.5-red)](https://grafana.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-2.319.2-blue)](https://www.jenkins.io/)
-[![Swagger](https://img.shields.io/badge/OpenAPI-Swagger-brightgreen)](https://swagger.io/)
-
-
-
 This project implements a microservice architecture for an e-commerce system. It consists of several independent services, each responsible for specific aspects of the system such as product management, order processing, user authentication, payment handling, and notifications.
 
 
@@ -109,3 +92,34 @@ If you'd like to contribute to this project, please follow these guidelines:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.5-brightgreen)](https://spring.io/projects/spring-boot)
+[![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2020.0.4-brightgreen)](https://spring.io/projects/spring-cloud)
+[![Java](https://img.shields.io/badge/Java-11-blue)](https://www.java.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-5.0-blue)](https://www.mongodb.com/)
+[![REST API](https://img.shields.io/badge/API-REST-blue)](https://restfulapi.net/)
+[![Security](https://img.shields.io/badge/Security-Spring%20Security-yellow)](https://spring.io/projects/spring-security)
+[![Gateway API](https://img.shields.io/badge/Gateway%20API-Spring%20Cloud%20Gateway-yellow)](https://spring.io/projects/spring-cloud-gateway)
+[![Docker](https://img.shields.io/badge/Docker-20.10.8-blue)](https://www.docker.com/)
+[![Kafka](https://img.shields.io/badge/Apache%20Kafka-2.8.0-red)](https://kafka.apache.org/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-2.30.0-red)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-8.1.5-red)](https://grafana.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-2.319.2-blue)](https://www.jenkins.io/)
+[![Swagger](https://img.shields.io/badge/OpenAPI-Swagger-brightgreen)](https://swagger.io/)
+[![Mockito](https://img.shields.io/badge/Mockito-Used-green)](https://site.mockito.org/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-Used-blue)](https://hibernate.org/)
+[![Maven](https://img.shields.io/badge/Maven-Used-blue)](https://maven.apache.org/)
+[![Testcontainers](https://img.shields.io/badge/Testcontainers-Used-blue)](https://www.testcontainers.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)](https://www.sonarlint.org/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/)
+[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)](https://spring.io/projects/spring-security)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
+

@@ -36,16 +36,17 @@ The main objectives of this project are:
 
 ## 💻 Technologies and Concepts Used
 
-- Spring Boot
-- Spring Cloud (Gateway API, Load Balancing, Cache, Health, Metrics)
-- Spring Security
-- Maven
-- Docker, Dockerfile, Docker Compose
-- Flyway Migration, JPA, PostgreSQL, MongoDB
-- OpenAPI (Swagger), HATEOAS Rest
-- Apache Kafka, Email, Prometheus, Grafana, Testcontainers (Unit Test, Functional Test, Integration Test with Mockito)
-- CI/CD with Jenkins Pipeline
-- Dev Configuration and Production Environment Setup
+- ⚙️ Spring Boot
+- ☁️ Spring Cloud (Gateway API, Load Balancing, Cache, Health, Metrics)
+- 🔒 Spring Security
+- 🛠️ Maven
+- 🐳 Docker, Dockerfile, Docker Compose
+- 🛤️ Flyway Migration, JPA, PostgreSQL, MongoDB
+- 📘 OpenAPI (Swagger), HATEOAS Rest
+- 📨 Apache Kafka, Email, Prometheus, Grafana, Testcontainers (Unit Test, Functional Test, Integration Test with Mockito)
+- 🚀 CI/CD with Jenkins Pipeline
+- 🛠️ Dev Configuration and Production Environment Setup
+
 
 ## 📊 Entity Model
 
